@@ -1,4 +1,4 @@
-kkname: CI Test Pipeline with Docker
+name: CI Test Pipeline with Docker
  
 on:
   push:
